@@ -1,0 +1,8 @@
+EXTRACT - 
+I extracted my data by simply coping and pasting team stats into a CVS file.
+
+TRANSFORM - 
+I transformed my data by removing columns. I also renamed certain columns.
+
+LOAD -
+I created a Table that mirrored my pandas table. I chose to import data to SQL because it is easier to manipulate data. I can modify data any time by adding new queries.
